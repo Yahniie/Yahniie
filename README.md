@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+It's about that time! Whew. I need more time in a day to learn this stuff!
+
 <!--
 **Yahniie/Yahniie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
